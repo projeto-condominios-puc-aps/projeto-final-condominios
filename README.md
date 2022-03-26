@@ -1,2 +1,2 @@
-# projeto-final-condominios
-Projeto Final do Grupo Condomínios da Pós PUC APS-211.
+# Projeto Final Grupo Condomínios - PUC APS-211
+
